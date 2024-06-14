@@ -1,2 +1,2 @@
-## I'm new to Git, eager to learn and grow my skills.
+## Eager to learn and grow my skills.
 
